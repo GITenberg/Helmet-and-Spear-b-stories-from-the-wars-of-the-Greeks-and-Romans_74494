@@ -1,0 +1,34 @@
+_repo: Helmet-and-Spear-b-stories-from-the-wars-of-the-Greeks-and-Romans_74494
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Church, Alfred John
+    aliases:
+    - Church, Alfred J.
+    - Church, A. J.
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '2020'
+    url: http://www.gutenberg.org/2009/agents/2020
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
+description: ''
+gutenberg_issued: '2024-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74494'
+language: en
+pgterms:marc904: https://archive.org/details/helmetspearstori00chur/page/n5/mode/2up
+pgterms:marc905: 20210714033847church
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Brian Coe, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: '  $aNew York :$bThe Macmillan Co, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Helmet and Spear : $b stories from the wars of the Greeks and Romans'
+url: http://www.gutenberg.org/ebooks/74494
